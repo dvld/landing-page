@@ -1,5 +1,5 @@
 CREATE DATABASE superAffiliateSystemLeads;
-USE DATABASE superAffiliateSystemLeads;
+USE superAffiliateSystemLeads;
 
 CREATE TABLE leads (
   leadId INT NOT NULL AUTO_INCREMENT,
